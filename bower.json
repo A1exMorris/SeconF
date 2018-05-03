@@ -1,0 +1,21 @@
+{
+  "name": "royal",
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "normalize.css": "*",
+    "jquery": "2.*",
+    "bootstrap": "4.1",
+      "popper.js": "1.14.3",
+      "clamp-js":""
+  }
+}
